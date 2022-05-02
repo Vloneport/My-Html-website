@@ -1,32 +1,48 @@
-# Prerequisites
-*.d
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+ </head>
+ <body>
+ <!--this is my navbar code-->
+ <nav>
+   <!--this is my unordered list code-->
+   <ul class="nav-list">
+     <!--this is my code for my list items-->
+     <li class="nav-item"><a herf="index.html">Home</a></li>
+     <li class="nav-item"><a href="about_me.html">Types of education</a></li>
+   </ul>  
+  </nav>
+   <!-- This is where the main content of website will be coded -->
+   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <h1>Setting Boundaries</h1>
+    <!--This code will display my image-->
+      <img height="600px" width="600px"
+      <img alt = "education.jpg"
+        <img src = "education.jpg">
+    </header>  
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+   <!-- This is my footer code -->
+   <footer>
+     <p>Copyright &copy; 2022, Created by Portland agnew</p>
+     
+   </footer>
+  <script src="script.js"></script>
+    <h1 class="centerBold">Importance of education</h1>
+  <p class="centerBold">
+    education is setting a limit or space between you and other people. The purpose of setting boundaries is to keep a healthy bond between people and keeps you comfortable and you won't stress about how much time you are spending with the people around you. Without setting any boundaries the people around you are going to take more advantage of you since you have no self-control and all you do is things that will get you tired and stressed.
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+      <img alt = "yo.jpg"
+        <img src = "yo.jpg">
+ </body>
+</html>
